@@ -1,0 +1,8 @@
+.header {
+    display: flex;
+}
+
+li {
+    font-family: Montserrat;
+    font-weight: 700;
+}
