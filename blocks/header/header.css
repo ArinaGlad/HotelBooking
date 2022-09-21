@@ -1,8 +1,8 @@
 .header {
     display: flex;
+    justify-content: space-between;
+    padding: 41px 120px 32px 120px;
+    align-items: center;
+    
 }
 
-li {
-    font-family: Montserrat;
-    font-weight: 600;
-}

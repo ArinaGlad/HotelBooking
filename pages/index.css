@@ -4,3 +4,16 @@
 @import url(../vendor/fonts/fonts.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/header/header.css);
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/button/button.css);
+@import url(../blocks/button/_place/button_place_header.css);
+@import url(../blocks/button/_place/button_place_rent.css);
+@import url(../blocks/navigation/navigation.css);
+@import url(../blocks/navigation/__link/navigation__link.css);
+@import url(../blocks/rent/rent.css);
+@import url(../blocks/rent/__header/rent__header.css);
+@import url(../blocks/rent/__subheader/rent__subheader.css);
+@import url(../blocks/rent/__image/rent__image.css);
+@import url(../blocks/rent/__image/_place/rent__image_place_left.css);
+@import url(../blocks/rent/__image/_place/rent__image_place_center.css);
+@import url(../blocks/rent/__image/_place/rent__image_place_right.css);

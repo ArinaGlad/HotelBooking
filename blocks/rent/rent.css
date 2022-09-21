@@ -1,0 +1,7 @@
+.rent {
+    display: flex;
+    gap: 24px;
+    margin: 0 auto;
+    padding: 80px 120px;
+    box-sizing: border-box;
+}

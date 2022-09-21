@@ -1,0 +1,7 @@
+.rent__image {
+    display: flex;
+    width: 100%;
+    min-height: 685px;
+    gap: 24px;
+    flex-shrink: 1;
+}

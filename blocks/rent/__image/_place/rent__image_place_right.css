@@ -1,0 +1,6 @@
+.rent__image_place_right {
+    background: url("../../../../images/house1-3.jpg") center center/cover no-repeat;
+    height: calc(100% - 80px);
+    flex-basis: 180px;
+    border-radius: 4px;
+}
