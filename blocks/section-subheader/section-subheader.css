@@ -1,8 +1,9 @@
-.rent__subheader {
+.section-subheader {
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
-    line-height: 1.5;
+    line-height: 150%;
     color: #848FAC;
-    margin: 0 0 59px 0;
+    margin: 0;
+    padding: 24px 0 0 0;
 }

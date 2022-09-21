@@ -1,0 +1,7 @@
+.benefit {
+    padding: 80px 226px 80px 120px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    row-gap: 32px;
+}

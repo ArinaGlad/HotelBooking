@@ -1,7 +1,5 @@
 .rent__image {
     display: flex;
-    width: 100%;
-    min-height: 685px;
+    min-width: calc(50% - 12px);
     gap: 24px;
-    flex-shrink: 1;
 }

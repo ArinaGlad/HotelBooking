@@ -1,3 +1,5 @@
 .rent__text {
-    flex: 1 1 0px;
+    min-width: calc(50% - 12px);
+    /* align-self: center; */
+    padding-top: calc((50% - 12px) * 0.2299);
 }

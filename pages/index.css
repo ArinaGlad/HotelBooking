@@ -12,8 +12,15 @@
 @import url(../blocks/navigation/__link/navigation__link.css);
 @import url(../blocks/rent/rent.css);
 @import url(../blocks/rent/__header/rent__header.css);
+@import url(../blocks/rent/__text/rent__text.css);
 @import url(../blocks/rent/__subheader/rent__subheader.css);
 @import url(../blocks/rent/__image/rent__image.css);
 @import url(../blocks/rent/__image/_place/rent__image_place_left.css);
 @import url(../blocks/rent/__image/_place/rent__image_place_center.css);
 @import url(../blocks/rent/__image/_place/rent__image_place_right.css);
+@import url(../blocks/about/about.css);
+@import url(../blocks/wrapper/wrapper.css);
+@import url(../blocks/section-header/section-header.css);
+@import url(../blocks/section-subheader/section-subheader.css);
+@import url(../blocks/section-subheader/_place/section-subheader_place_about.css);
+@import url(../blocks/benefit/benefit.css);

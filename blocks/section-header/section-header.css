@@ -1,10 +1,10 @@
-.rent__header {
+.section-header {
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 600;
-    font-size: 48px;
-    line-height: 1.5;
+    font-size: 36px;
+    line-height: 150%;
     letter-spacing: -0.01em;
     color: #192252;
-    margin: 0 0 24px 0;
+    margin: 0;
 }
