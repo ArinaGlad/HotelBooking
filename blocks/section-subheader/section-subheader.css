@@ -6,4 +6,5 @@
     color: #848FAC;
     margin: 0;
     padding: 24px 0 0 0;
+    box-sizing: border-box;
 }

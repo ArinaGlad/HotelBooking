@@ -1,5 +1,5 @@
 .about {
     display: flex;
-    padding-left: 120px;
+    padding: 96px 0  80px 120px;
     gap: 126px;
 }

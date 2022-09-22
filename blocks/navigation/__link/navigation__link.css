@@ -4,4 +4,10 @@
     font-size: 16px;
     line-height: 1.1875;
     color: #192252;
+    transition: 0.5s ease-in-out;
+}
+
+.navigation__link:hover {
+    color: #FAB047;
+    text-decoration: underline;
 }

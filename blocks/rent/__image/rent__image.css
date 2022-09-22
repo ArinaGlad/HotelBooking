@@ -1,5 +1,8 @@
 .rent__image {
+    /* position: relative; */
     display: flex;
     min-width: calc(50% - 12px);
-    gap: 24px;
+    gap: 4%;
+    justify-content: center;
+    
 }
