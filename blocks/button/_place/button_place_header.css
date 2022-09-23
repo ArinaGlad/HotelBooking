@@ -2,3 +2,9 @@
     width: 136px;
     height: 47px;
 }
+
+@media screen and (max-width: 767px) {
+    .button_place_header {
+        margin: 0;
+    }
+}

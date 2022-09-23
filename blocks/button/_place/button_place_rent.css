@@ -1,3 +1,10 @@
 .button_place_rent {
     width: 180px;
 }
+
+@media screen and (max-width: 1023px) {
+    .button_place_rent {
+        display: block;
+        margin: 0 auto;
+    }
+}

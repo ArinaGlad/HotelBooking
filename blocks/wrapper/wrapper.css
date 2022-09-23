@@ -1,5 +1,19 @@
 .wrapper {
-    align-self: center;
+    /* align-self: center; */
+    /* flex-basis: 584px; */
+    width: calc(50% - 120px);
+    /* width: 100%; */
     max-width: 584px;
-    
+}
+
+@media screen and (max-width: 1279px) {
+    .wrapper {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .wrapper {
+        width: 100%;
+    }
 }

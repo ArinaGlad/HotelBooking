@@ -8,3 +8,9 @@
     padding: 24px 0 0 0;
     box-sizing: border-box;
 }
+
+@media screen and (max-width: 767px) {
+    .section-subheader {
+        text-align: center;
+    }
+}

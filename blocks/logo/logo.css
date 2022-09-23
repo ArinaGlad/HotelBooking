@@ -1,9 +1,6 @@
 .logo {
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 32px;
-    line-height: 1.21875;
-    color: #192252;
-    text-decoration: none;
+    background-image: url(../../../images/logo/HotelBooking__header.svg);
+    width: 229px;
+    height: 39px;
+    background-size: 229px 39px;
 }

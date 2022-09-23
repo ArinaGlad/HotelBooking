@@ -8,12 +8,21 @@
     color: #FFFFFF;
     transition: all 0.5s;
     border-style: none;
+    cursor: pointer;
+
 }
 
 .button:hover {
     box-shadow: 0 0 10px 10px rgba(167, 168, 168, 0.25), 0 0 2px 2px rgba(59, 87, 176, 0);
     background: #FAB047;
     
+}
+
+@media screen and (max-width: 767px) {
+    .button {
+        display: block;
+        margin: 0 auto;
+    }
 }
 
 
