@@ -1,5 +1,9 @@
 # HotelBooking
 
-**Ссылка на проект**
+## Использованы следующие технологии:
+__1__ Flex
+__2__ Grid
+__3__ Анимацияна CSS
+__4__ Медиазапросы
 
-https://arinaglad.github.io/HotelBooking/
+

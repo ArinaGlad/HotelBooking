@@ -3,7 +3,6 @@
     min-width: calc(50% - 12px);
     gap: 4%;
     justify-content: center;
-    /* object-fit: cover; */
     max-height: 100%;
 }
 

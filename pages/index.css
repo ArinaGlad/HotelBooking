@@ -1,4 +1,4 @@
-/* normolize */
+/* normalize */
 @import url(../vendor/normalize.css);
 /* fonts */
 @import url(../vendor/fonts/fonts.css);
@@ -48,7 +48,6 @@
 @import url(../blocks/burger/__element/burger__element.css);
 
 @import url(../blocks/interiors/interiors.css);
-/* @import url(../blocks/interiors/__header/interiors__header.css); */
 @import url(../blocks/interiors/__slider/interiors__slider.css);
 @import url(../blocks/interiors/__pic/interiors__pic.css);
 @import url(../blocks/interiors/__pic/_size/interiors__pic_size_big.css);
@@ -59,8 +58,6 @@
 @import url(../blocks/slider/__button/_position_interiors/slider__button_position_interiors.css);
 /* reservation */
 @import url(../blocks/reservation/reservation.css);
-/* @import url(../blocks/reservation/__header/reservation__header.css); */
-/* @import url(../blocks/reservation/__text/reservation__text.css); */
 /* cards */
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/cards/__description/cards__description.css);
@@ -79,7 +76,6 @@
 /* logo */
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_place/logo_place_footer.css);
-/* @import url(../blocks/logo/_place/logo_place_header.css); */
 /* footer */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);

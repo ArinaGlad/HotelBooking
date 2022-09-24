@@ -1,13 +1,6 @@
 .benefit__img {
     object-fit: cover;
     border-radius: 4px;
-    /* display: block; */
-    /* max-width:384px;
-    max-height:384px;
-    width: auto;
-    height: auto */
-    /* width: 100%; */
-    /* height: auto; */
     max-width: 384px;
     height: auto;
 }

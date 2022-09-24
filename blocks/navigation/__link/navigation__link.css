@@ -9,9 +9,5 @@
 
 .navigation__link:hover {
     color: #FAB047;
-    text-decoration: underline;
 }
 
-.navigation__link:visited {
-    color: #5964a3;
-}
