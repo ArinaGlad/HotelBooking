@@ -1,0 +1,20 @@
+.footer__column-heading {
+  padding-top: 6px;
+  margin: 0;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.01em;
+  color: #ffffff;
+}
+@media screen and (max-width: 767px) {
+  .footer__column-heading {
+    padding-top: 30px;
+    font-size: 24px;
+    line-height: 26px;
+    margin: 0 auto;
+    text-align: center;
+  }
+}

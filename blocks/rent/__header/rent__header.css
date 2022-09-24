@@ -6,7 +6,8 @@
     line-height: 1.5;
     letter-spacing: -0.01em;
     color: #192252;
-    margin: 0 0 24px 0;
+    padding: 0 0 24px 0;
+    margin: 0;
 }
 
 @media screen and (max-width: 1279px) {
@@ -20,6 +21,7 @@
         text-align: center;
         max-width: 470px;
         margin: 0 auto;
+        padding-bottom: 20px;
     }
 }
 

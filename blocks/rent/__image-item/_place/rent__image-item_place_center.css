@@ -3,14 +3,3 @@
     margin-top: calc(((100% - 48px) / 3) * 3.27 * 0.136);
 }
 
-@keyframes fade {
-    0% {
-        width: 25%;
-        opacity: 0.3;
-        filter: blur(22px);
-        padding-bottom: 38%;
-        height: 0;
-        margin-top: 65%;
-    }
-    100% {opacity: 1;}
-    }

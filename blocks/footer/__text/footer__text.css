@@ -1,0 +1,17 @@
+.footer__text {
+  padding-top: 24px;
+  margin: 0;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #d9dbde;
+}
+@media screen and (max-width: 767px) {
+  .footer__text {
+    padding-top: 30px;
+    margin: 0 auto;
+    text-align: center;
+  }
+}

@@ -1,13 +1,12 @@
 .button_place_header {
-    width: 136px;
-    height: 47px;
+    padding: 0 16px;
+    min-height: 47px;
 }
 
 @media screen and (max-width: 767px) {
     .button_place_header {
         margin: 0;
-        width: 109px;
-        height: 37px;
+        min-height: 37px;
         font-size: 12px;
         margin-left: auto;
     }

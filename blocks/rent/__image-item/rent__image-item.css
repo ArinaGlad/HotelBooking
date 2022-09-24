@@ -5,5 +5,5 @@
     width: calc((100% - 48px) / 3);
     border-radius: 4px;
     box-sizing: border-box;
-    animation: fade 2s ease;
+    
 }
