@@ -3,6 +3,8 @@
     padding: 96px 120px 80px 120px;
     gap: 126px;
     box-sizing: border-box;
+    justify-content: flex-start;
+    align-items: center;
 }
 
 @media screen and (max-width: 1279px) {

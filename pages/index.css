@@ -29,3 +29,6 @@
 @import url(../blocks/benefit/__img/benefit__img.css);
 @import url(../blocks/benefit/__item/benefit__item.css);
 @import url(../blocks/benefit/__item/_place/benefit__item_place_down.css);
+@import url(../blocks/burger/burger.css);
+@import url(../blocks/burger/__element/burger__element.css);
+

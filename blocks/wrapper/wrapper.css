@@ -1,8 +1,6 @@
 .wrapper {
-    /* align-self: center; */
-    /* flex-basis: 584px; */
     width: calc(50% - 120px);
-    /* width: 100%; */
+    width: 100%;
     max-width: 584px;
 }
 
