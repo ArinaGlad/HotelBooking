@@ -13,5 +13,5 @@
 
 ### Посмотреть в браузере
 
-- [Ссылка на github-pages](https://ArinaGlad.github.io/HotelBooking/)
-  (Будет доступно с публичным репозиторием)
+- [Ссылка на github-pages](https://arinaglad.github.io/HotelBooking/)
+  
