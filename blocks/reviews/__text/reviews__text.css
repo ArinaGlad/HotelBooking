@@ -11,6 +11,12 @@
 
 @media screen and (max-width: 1023px) {
   .reviews__text {
-padding: 0 50px 0 50px;
+    padding: 0 50px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .reviews__text {
+    padding: 0 20px;
   }
 }

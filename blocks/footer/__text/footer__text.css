@@ -1,5 +1,5 @@
 .footer__text {
-  padding-top: 24px;
+  padding-bottom: 24px;
   margin: 0;
   font-family: "Inter";
   font-style: normal;
@@ -8,10 +8,13 @@
   line-height: 19px;
   color: #d9dbde;
 }
+.footer__text:last-child {
+  padding-bottom: 0;
+}
 @media screen and (max-width: 767px) {
   .footer__text {
-    padding-top: 30px;
-    margin: 0 auto;
+    font-size: 12px;
+    line-height: 16px;
     text-align: center;
   }
 }

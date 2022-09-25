@@ -7,3 +7,8 @@
   column-gap: 24px;
   padding: 88px 20px 0 20px;
 }
+@media screen and (max-width: 767px) {
+  .cards {
+    padding-top: 40px;
+  }
+}
